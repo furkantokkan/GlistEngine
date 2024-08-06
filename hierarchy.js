@@ -19,7 +19,6 @@ var hierarchy =
       ] ],
       [ "gMouseMovedEvent", "classgMouseMovedEvent.html", null ],
       [ "gMouseScrolledEvent", "classgMouseScrolledEvent.html", null ],
-      [ "gReallocateRenderDataEvent", "classgReallocateRenderDataEvent.html", null ],
       [ "gWindowFocusEvent", "classgWindowFocusEvent.html", null ],
       [ "gWindowLoseFocusEvent", "classgWindowLoseFocusEvent.html", null ],
       [ "gWindowMouseEnterEvent", "classgWindowMouseEnterEvent.html", null ],
@@ -147,6 +146,7 @@ var hierarchy =
         [ "gBoundingBox", "classgBoundingBox.html", null ],
         [ "gFbo", "classgFbo.html", null ],
         [ "gFog", "classgFog.html", null ],
+        [ "gGrid", "classgGrid.html", null ],
         [ "gMaterial", "classgMaterial.html", null ],
         [ "gNode", "classgNode.html", [
           [ "gCamera", "classgCamera.html", null ],
